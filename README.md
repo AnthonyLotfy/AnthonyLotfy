@@ -215,11 +215,6 @@ Supported cybersecurity awareness and operational technology initiatives within 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tonynabih-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a0033&title_color=A855F7&icon_color=8b2fc9&text_color=c9b8f0" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonynabih-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a0033&title_color=A855F7&text_color=c9b8f0" width="48%" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=tonynabih-cmd&theme=tokyonight&hide_border=true&background=1a0033&ring=A855F7&fire=8b2fc9&currStreakLabel=c9b8f0" width="60%" />
 
 </div>
