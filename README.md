@@ -265,7 +265,7 @@ open_to:
 
 [![Outlook](https://img.shields.io/badge/Email-Anthony.nabih%40outlook.com-6a1cb3?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:Anthony.nabih@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8b2fc9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-lotfy-167431263)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-2d0a5c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonynabih-cmd)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-2d0a5c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnthonyLotfy)
 
 ---
 
