@@ -11,11 +11,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Lotfy-6a1cb3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-lotfy-167431263)
 [![Email](https://img.shields.io/badge/Email-Anthony.nabih%40outlook.com-8b2fc9?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:Anthony.nabih@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-tonynabih--cmd-2d0a5c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonynabih-cmd)
+[![GitHub](https://img.shields.io/badge/GitHub-AnthonyLotfy-2d0a5c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnthonyLotfy)
 
-![Profile Views](https://komarev.com/ghpvc/?username=tonynabih-cmd&color=6a1cb3&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/tonynabih-cmd?style=for-the-badge&color=8b2fc9&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/tonynabih-cmd?style=for-the-badge&color=a855f7&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=AnthonyLotfy&color=6a1cb3&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/AnthonyLotfy?style=for-the-badge&color=8b2fc9&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/AnthonyLotfy?style=for-the-badge&color=a855f7&label=STARS)
 
 </div>
 
@@ -149,7 +149,7 @@ AI-assisted trading platform developed to explore software engineering, automati
 | **Focus** | Automation, analytics dashboards, backend engineering, monitoring |
 | **Security** | Private strategy logic excluded from public documentation |
 | **Impact** | Demonstrates applied AI software engineering and system design |
-| **Repository** | [View Repository](https://github.com/tonynabih-cmd/gold-ai-trader) |
+| **Repository** | [View Repository](https://github.com/AnthonyLotfy/gold-ai-trader) |
 
 </details>
 
@@ -166,7 +166,7 @@ AI-powered digital evidence authenticity and provenance platform designed to sup
 | **Focus** | Image authenticity, digital forensics, provenance, audit reporting |
 | **Security** | Secure evidence handling and tamper-evident hash-chain records |
 | **Impact** | Demonstrates AI, cybersecurity, and digital forensics integration |
-| **Repository** | [View Repository](https://github.com/tonynabih-cmd/DEIS) |
+| **Repository** | [View Repository](https://github.com/AnthonyLotfy/DEIS) |
 
 </details>
 
@@ -215,7 +215,7 @@ Supported cybersecurity awareness and operational technology initiatives within 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tonynabih-cmd&theme=tokyonight&hide_border=true&background=1a0033&ring=A855F7&fire=8b2fc9&currStreakLabel=c9b8f0" width="60%" />
+<img src="https://streak-stats.demolab.com?user=AnthonyLotfy&theme=tokyonight&hide_border=true&background=1a0033&ring=A855F7&fire=8b2fc9&currStreakLabel=c9b8f0" width="60%" />
 
 </div>
 
@@ -225,7 +225,7 @@ Supported cybersecurity awareness and operational technology initiatives within 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tonynabih-cmd&theme=react-dark&bg_color=1a0033&color=A855F7&line=8b2fc9&point=c9b8f0&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnthonyLotfy&theme=react-dark&bg_color=1a0033&color=A855F7&line=8b2fc9&point=c9b8f0&hide_border=true" width="90%" />
 
 </div>
 
