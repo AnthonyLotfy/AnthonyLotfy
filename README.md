@@ -149,7 +149,7 @@ AI-assisted trading platform developed to explore software engineering, automati
 | **Focus** | Automation, analytics dashboards, backend engineering, monitoring |
 | **Security** | Private strategy logic excluded from public documentation |
 | **Impact** | Demonstrates applied AI software engineering and system design |
-| **Repository** | Coming soon |
+| **Repository** | [View Repository](https://github.com/tonynabih-cmd/gold-ai-trader)  |
 
 </details>
 
@@ -166,7 +166,7 @@ AI-powered digital evidence authenticity and provenance platform designed to sup
 | **Focus** | Image authenticity, digital forensics, provenance, audit reporting |
 | **Security** | Secure evidence handling and tamper-evident hash-chain records |
 | **Impact** | Demonstrates AI, cybersecurity, and digital forensics integration |
-| **Repository** | Coming soon |
+| **Repository** | [View Repository](https://github.com/tonynabih-cmd/DEIS) |
 
 </details>
 
